@@ -1,2 +1,3 @@
 # Mineverso_3D
 Mineverso 3D surge como una oportunidad para transformar la capacitación, supervisión y planificación minera mediante entornos digitales inmersivos.  Su objetivo es crear universos digitales de operaciones mineras utilizando modelamiento 3D y visores inmersivos. 
+La metodología consiste en levantar información topográfica o visual de la mina, construir modelos tridimensionales, integrar rutas, labores, equipos y zonas críticas, y permitir su visualización mediante plataformas 3D o realidad virtual. Como resultado, se espera mejorar la comprensión espacial de la operación, fortalecer la capacitación en seguridad, simular escenarios mineros y facilitar la supervisión técnica de manera más didáctica e innovadora.
