@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_Feature_Demo
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: tzdewwnz0rpm9av0jzsp6dwv
+  packageName: "FACULTAD DE INGENIER\xCDA DE MINAS VR 2026"
+  thumbnail: {fileID: 2800000, guid: 07aab97d103d87145908d2769cf9e4e6, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  teamID: 
+  worldID: uy6m4gvhh2zsx88yp3p3d
+  scene: {fileID: 102900000, guid: 78ca64789baadad419179b0229a6d33a, type: 3}
+  csharpAssembly: {fileID: 0}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 50
